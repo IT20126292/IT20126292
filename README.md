@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://drive.google.com/file/d/1RDV1yIF7ky0sEwej6ypPF1aTe2aPPD0z/view?usp=sharing)](https://drive.google.com/drive/u/0/my-drive) -->
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>, 𝐈'𝐦 𝐊𝐚𝐯𝐢𝐬𝐡𝐚 𝐒𝐢𝐥𝐯𝐚</h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞...<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>, 𝐈'𝐦 𝐊𝐚𝐯𝐢𝐬𝐡𝐚 𝐒𝐢𝐥𝐯𝐚</h1>
 <h3 align="center">𝟑𝐫𝐝 𝐘𝐞𝐚𝐫 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐀𝐭 𝐒𝐋𝐈𝐈𝐓</h3>
 <hr/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
