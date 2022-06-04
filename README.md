@@ -24,7 +24,7 @@
 
 - 📄 Please have a look at my portfolio [kavisha-silva.web.app](https://kavisha-silva.web.app/) for more details about me. I'm open to feedback and suggestions!
 
-- ⚡ Fun facts, **My first line of code was not "Hello World!" & At The time of Stress coding, I use to be in half sleeping mode**
+- ⚡ Fun facts, **My first line of code was not "Hello World...!" & At The time of Stress coding, I use to be in half sleeping mode😴**.
 <hr/>
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
