@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help to **Programming, Web Development, UI/UX Designing, Graphic Designing and Video Editing related projects, feel free to dm me.**
 
-- 👨‍💻 All of my projects are available at [github.com/IT20126292](github.com/IT20126292)
+- 👨‍💻 All of my projects are available at [github.com/IT20126292](https://github.com/IT20126292)
 
 - 💬 Ask me about **Anything related to what I am currently learning 😅.**
 
-- 📫 How to reach me: **kavisha.contactme@gmail.com**
+- 📫 You can shoot me an email at **kavisha.contactme@gmail.com** I'll try to respond as soon as I can.
 
-- 📄 Please have a look at my portfolio [kavisha-silva.web.app](kavisha-silva.web.app)
+- 📄 Please have a look at my portfolio [kavisha-silva.web.app](https://kavisha-silva.web.app/) for more details about me. I'm open to feedback and suggestions!
 
 - ⚡ Fun facts, **My first line of code was not "Hello World!"**
 <hr/>
