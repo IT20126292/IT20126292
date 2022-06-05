@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://github.com/IT20126292">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=it20126292&theme=radical&hide_border=true" alt="it20126292"/>&nbsp;
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=it20126292&theme=radical&hide_border=true" alt="it20126292"/>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=it20126292&show_icons=true&locale=en&theme=radical&hide_border=true" alt="it20126292"/>
   </a>
 </p>
