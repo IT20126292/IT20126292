@@ -24,7 +24,7 @@
 
 - 📫 You can shoot me an email at **kavisha.contactme@gmail.com**, I'll try to respond as soon as I can.
 
-- 📑 Please have a look at my [Portfolio](https://kavisha-silva.web.app/) for more details about me. I'm open to feedback and suggestions!!!
+- 📑 Please have a look at my [Portfolio](https://kavisha-silva.web.app) for more details about me. I'm open to feedback and suggestions!!!
 
 - ⚡ Fun facts, **My first line of code was not "Hello World...!" & At The time of Stress coding, I use to be in half sleeping mode😴**.
 
