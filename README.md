@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help to **Programming, Web Development, UI/UX Designing, Graphic Designing and Video Editing related projects**, feel free to dm me.
 
-- 👨‍💻 All of my projects are available at [github.com/IT20126292](https://github.com/IT20126292)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/IT20126292).
 
 - 💬 Ask me about **Anything related to what I am currently learning😅.**
 <!-- newly added line -->
