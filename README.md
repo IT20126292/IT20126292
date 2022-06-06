@@ -2,7 +2,7 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞...<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>, 𝐈'𝐦 𝐊𝐚𝐯𝐢𝐬𝐡𝐚 𝐒𝐢𝐥𝐯𝐚</h1>
 <h3 align="center">- 𝟑𝐫𝐝 𝐘𝐞𝐚𝐫 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐀𝐭 𝐒𝐋𝐈𝐈𝐓 -</h3>
 <hr/>
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20126292&label=Profile%20views&color=0e75b6&style=flat" alt="it20126292" /> </p>
 
@@ -14,15 +14,17 @@
 
 - 👯 I’m looking to collaborate on **React, Java, Python, Machine Learning, Full Stack Development, Mobile App development Projects.**
 
-- 🤝 I’m looking for help to **Programming, Web Development, UI/UX Designing, Graphic Designing and Video Editing related projects, feel free to dm me.**
+- 🤝 I’m looking for help to **Programming, Web Development, UI/UX Designing, Graphic Designing and Video Editing related projects**, feel free to dm me.
 
 - 👨‍💻 All of my projects are available at [github.com/IT20126292](https://github.com/IT20126292)
 
-- 💬 Ask me about **Anything related to what I am currently learning 😅.**
+- 💬 Ask me about **Anything related to what I am currently learning😅.**
+<!-- newly added line -->
+- 🔎 Please go through my [Resume](https://drive.google.com/uc?export=download&id=1d4bZv8x5tb7nEWyLrn8Vl1G6OgrgvWZ8) for get brief idea of my performances & talents.
 
-- 📫 You can shoot me an email at **kavisha.contactme@gmail.com** I'll try to respond as soon as I can.
+- 📫 You can shoot me an email at **kavisha.contactme@gmail.com**, I'll try to respond as soon as I can.
 
-- 📄 Please have a look at my portfolio [kavisha-silva.web.app](https://kavisha-silva.web.app/) for more details about me. I'm open to feedback and suggestions!
+- 📑 Please have a look at my [Portfolio](https://kavisha-silva.web.app/) for more details about me. I'm open to feedback and suggestions!!!
 
 - ⚡ Fun facts, **My first line of code was not "Hello World...!" & At The time of Stress coding, I use to be in half sleeping mode😴**.
 
