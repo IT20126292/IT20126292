@@ -50,7 +50,7 @@
 
 <!-- [![Kavisha's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=it20126292&theme=redical&hide_border=true&area=true)](https://github.com/IT20126292) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT20126292&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT20126292&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/IT20126292)
 
 <p align="left">
   <a href="https://github.com/IT20126292">
